@@ -1,0 +1,26 @@
+## XAU Signal Bot Telegram v1.0
+
+Rilis pertama XAU Signal Bot Telegram.
+
+### 📦 Yang Diunduh
+
+- `xau_signal-bot-v1.0.tar.gz` — paket source code lengkap
+
+### 📋 Requirements
+
+- Python 3.10+
+- Telegram Bot Token (dari @BotFather)
+- Telegram Chat ID (dari @userinfobot)
+- License Key (dari penjual)
+
+### 🚀 Cara Pakai
+
+1. Extract `.tar.gz`
+2. Baca `README.md` di dalam paket
+3. Ikuti langkah instalasi
+4. Isi `.env` dengan token, chat ID, license key
+5. Jalankan `python telegram_bot.py`
+
+### 🆘 Bantuan
+
+Telegram: [@blackcubecodeadmin](https://t.me/blackcubecodeadmin)
